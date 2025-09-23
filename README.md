@@ -1,7 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/23157155/file/original-6bc189bda990bce165355cc26f36d625.gif)
-
-
-
+![Image](https://github.com/user-attachments/assets/0c2a6138-4890-4551-a058-8bef12e57414)
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm murthyvella</h1>
 <p align="left">
   <a href="https://github.com/murthyvella">
