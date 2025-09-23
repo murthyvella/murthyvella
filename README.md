@@ -1,5 +1,6 @@
-![Image](https://github.com/user-attachments/assets/0c2a6138-4890-4551-a058-8bef12e57414)
+<img src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Girl in a jacket" >
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm murthyvella</h1>
+<h2 align="center">A passionate DevOps Engineer from India</h2>
 <p align="left">
   <a href="https://github.com/murthyvella">
     <img src="https://komarev.com/ghpvc/?username=murthyvella" alt="page views">
