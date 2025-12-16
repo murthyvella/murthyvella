@@ -1,4 +1,4 @@
-<img src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" alt="Girl in a jacket" >
+<img src=""https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="Girl in a jacket" >
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm murthyvella</h1>
 <h2 align="center">A passionate DevOps Engineer from India</h2>
 <p align="left">
