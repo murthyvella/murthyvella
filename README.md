@@ -1,4 +1,4 @@
-<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/devops-data-analysis-concept-with-developer-working-on-laptop-in-front-of-a-dashboard-with-business-charts-and-graphs-animation-gif-download-13472783.mp4" alt="Girl in a jacket" >
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" alt="Girl in a jacket" >
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm murthyvella</h1>
 <h2 align="center">A passionate DevOps Engineer from India</h2>
 <p align="left">
